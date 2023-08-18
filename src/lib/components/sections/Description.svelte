@@ -7,11 +7,13 @@
     High level experience in web development knowledge, producing quality work
   </p>
   <div>
-    <button
-      type="button"
-      data-aos="fade-up"
-      class="mt-5 text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-normal rounded-lg text-lg px-5 py-2.5 text-center mr-2 mb-2"
-      >Contact Me</button
-    >
+    <a href="#contact-me-section">
+      <button
+        type="button"
+        data-aos="fade-up"
+        class="mt-5 text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-normal rounded-lg text-lg px-5 py-2.5 text-center mr-2 mb-2"
+        >Contact Me</button
+      >
+    </a>
   </div>
 </div>

@@ -19,10 +19,10 @@
   <NavHamburger on:click={toggle} />
   <NavUl {hidden}>
     <NavLi class="font-light" href="/" active={true}>Home</NavLi>
-    <NavLi class="font-light" href="/about">About</NavLi>
-    <NavLi class="font-light" href="/skills">Skills</NavLi>
-    <NavLi class="font-light" href="/services">Services</NavLi>
-    <NavLi class="font-light" href="/portfolio">Portfolio</NavLi>
-    <NavLi class="font-light" href="/contact">Contact</NavLi>
+    <NavLi class="font-light" href="#about-me-section">About</NavLi>
+    <NavLi class="font-light" href="#skills-section">Skills</NavLi>
+    <NavLi class="font-light" href="#services">Services</NavLi>
+    <NavLi class="font-light" href="#portfolio">Portfolio</NavLi>
+    <NavLi class="font-light" href="#contact-me-section">Contact</NavLi>
   </NavUl>
 </Navbar>

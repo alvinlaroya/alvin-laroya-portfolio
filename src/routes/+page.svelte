@@ -1,7 +1,6 @@
 <script>
   import Banner from "../lib/components/sections/Banner.svelte";
   import AboutMe from "../lib/components/sections/AboutMe.svelte";
-  import SpeedDial from "../lib/components/SpeedDial.svelte";
   import Skills from "../lib/components/sections/Skills.svelte";
   import Timeline from "../lib/components/sections/Timeline.svelte";
   import ContactMe from "../lib/components/sections/ContactMe.svelte";
@@ -12,7 +11,6 @@
 </svelte:head>
 <Banner />
 <AboutMe />
-<SpeedDial />
 <Skills />
 <Timeline />
 <ContactMe />
